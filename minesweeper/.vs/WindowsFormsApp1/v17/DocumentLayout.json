@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E95AF32-E105-40D9-B010-AD0B96E21E46}|WindowsFormsApp1.csproj|c:\\users\\furkn\\source\\repos\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E95AF32-E105-40D9-B010-AD0B96E21E46}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E95AF32-E105-40D9-B010-AD0B96E21E46}|WindowsFormsApp1.csproj|C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\skorboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E95AF32-E105-40D9-B010-AD0B96E21E46}|WindowsFormsApp1.csproj|solutionrelative:skorboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E95AF32-E105-40D9-B010-AD0B96E21E46}|WindowsFormsApp1.csproj|C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\skorboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E95AF32-E105-40D9-B010-AD0B96E21E46}|WindowsFormsApp1.csproj|solutionrelative:skorboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E95AF32-E105-40D9-B010-AD0B96E21E46}|WindowsFormsApp1.csproj|C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E95AF32-E105-40D9-B010-AD0B96E21E46}|WindowsFormsApp1.csproj|solutionrelative:oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E95AF32-E105-40D9-B010-AD0B96E21E46}|WindowsFormsApp1.csproj|C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\skorboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E95AF32-E105-40D9-B010-AD0B96E21E46}|WindowsFormsApp1.csproj|solutionrelative:skorboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E95AF32-E105-40D9-B010-AD0B96E21E46}|WindowsFormsApp1.csproj|C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\skorboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E95AF32-E105-40D9-B010-AD0B96E21E46}|WindowsFormsApp1.csproj|solutionrelative:skorboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkorboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\SkorboardForm.cs",
+              "RelativeDocumentMoniker": "SkorboardForm.cs",
+              "ToolTip": "C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\SkorboardForm.cs",
+              "RelativeToolTip": "SkorboardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:09:54.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Skorboard.cs",
+              "DocumentMoniker": "C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\Skorboard.cs",
+              "RelativeDocumentMoniker": "Skorboard.cs",
+              "ToolTip": "C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\Skorboard.cs",
+              "RelativeToolTip": "Skorboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:41:33.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SkorboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\SkorboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "SkorboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\SkorboardForm.Designer.cs",
+              "RelativeToolTip": "SkorboardForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:35:35.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SkorboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\SkorboardForm.cs",
+              "RelativeDocumentMoniker": "SkorboardForm.cs",
+              "ToolTip": "C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\SkorboardForm.cs [Design]",
+              "RelativeToolTip": "SkorboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:09:52.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:23:16.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oyun.cs",
+              "DocumentMoniker": "C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\Oyun.cs",
+              "RelativeDocumentMoniker": "Oyun.cs",
+              "ToolTip": "C:\\Users\\furkn\\source\\repos\\WindowsFormsApp1\\Oyun.cs",
+              "RelativeToolTip": "Oyun.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAIwA4BAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:41:11.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
